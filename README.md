@@ -31,11 +31,11 @@ The trained model is used to predict outcomes on the test data, and the results 
 	├── data/
 	│   ├── diabetic_data.csv         # Training dataset
 	│   └── diabetic_data_test.csv    # Test dataset
-	├── notebooks/                    # Jupyter notebooks for exploration and model 	training
+	├── notebooks/                    # Jupyter notebooks for exploration and model training
 	├── src/
-	│   ├── preprocessing.py          # Data cleaning and feature engineering 			functions
+	│   ├── preprocessing.py          # Data cleaning and feature engineering functions
 	│   ├── model_training.py         # Model training and evaluation code
-	│   └── predict.py                # Code to preprocess test data and generate 		predictions
+	│   └── predict.py                # Code to preprocess test data and generate predictions
 	├── README.md                     # This file
 	└── requirements.txt              # List of dependencies and Python packages
 
