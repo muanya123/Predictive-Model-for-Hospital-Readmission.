@@ -7,7 +7,7 @@ This project is focused on predicting hospital readmission for diabetic patients
 
 Data Preprocessing:
 
-1. Missing Values: Missing values in clinical notes are handled by filling with a 		default value (e.g., an empty string or 'nan' for categoriy
+1. Missing Values: Missing values in clinical notes are handled by filling with a 		default value (e.g. an empty string or 'nan' for categoriy
 2. Column Dropping: Unwanted columns are removed to focus on relevant features.
 
 ### Feature Engineering: ### 
